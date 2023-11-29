@@ -12,3 +12,5 @@ E tambem configure o arquivo db.py de acordo com o pgadmin4 do seu pc
 ```
 
 O banco de dados para testes está nomeado como bd.sql. Basta criar um banco, e rodar ele a partir do arquivo e seu conteúdo.
+
+Integrantes do projeto: Arthur Cavalleiro, Fabio Gabriel, Felipe Pedroso, Henrique Benur e Leonardo Peixoto
